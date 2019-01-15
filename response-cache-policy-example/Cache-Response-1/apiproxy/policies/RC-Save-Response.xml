@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResponseCache async="false" continueOnError="false" enabled="true" name="RC-Save-Response">
+    <DisplayName>RC-Save-Response</DisplayName>
+    <Properties/>
+    <CacheKey>
+        <Prefix>Name</Prefix>
+        <KeyFragment>FirstName</KeyFragment>
+        <KeyFragment ref="request.queryparam.name"/>
+    </CacheKey>
+    <Scope>Exclusive</Scope>
+    <CacheLookupTimeoutInSeconds>30</CacheLookupTimeoutInSeconds>
+    <ExcludeErrorResponse>true</ExcludeErrorResponse>
+    <ExpirySettings>
+        <ExpiryDate/>
+        <TimeOfDay/>
+        <TimeoutInSec>3600</TimeoutInSec>
+    </ExpirySettings>
+    <SkipCacheLookup>request.header.bypass-cache = "true"</SkipCacheLookup>
+    <SkipCachePopulation/>
+</ResponseCache>
