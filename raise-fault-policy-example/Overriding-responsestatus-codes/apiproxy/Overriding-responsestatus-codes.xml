@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="Overriding-responsestatus-codes">
+    <Basepaths>/trialdemo3</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1546803514484</CreatedAt>
+    <CreatedBy>hi2karthikalagappan@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>trialdemo3</DisplayName>
+    <LastModifiedAt>1547568728143</LastModifiedAt>
+    <LastModifiedBy>hi2karthikalagappan@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>Internal Error</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
