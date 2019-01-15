@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-Set-Final-Response">
+    <DisplayName>AM-Set-Final-Response</DisplayName>
+    <Set>
+        <Payload contentType="application/json">
+	        {"{request.queryparam.album}":"{desired_album_name}"}
+	    </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" type="response"/>
+</AssignMessage>

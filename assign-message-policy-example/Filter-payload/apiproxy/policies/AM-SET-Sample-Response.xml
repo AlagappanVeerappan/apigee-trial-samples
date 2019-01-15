@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-SET-Sample-Response">
+    <DisplayName>AM-SET-Sample-Response</DisplayName>
+    <Set>
+        <Payload contentType="application/json">
+           {
+              "Album1": "Rock",
+              "Album2": "Jazz",
+              "Album3": "Melody",
+              "Album4": "Vintage music",
+              "Album5": "Classic"
+            }
+       </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" type="response"/>
+</AssignMessage>
