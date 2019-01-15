@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="Add-Header-1">
+    <DisplayName>Add Header-1</DisplayName>
+    <Set>
+        <Headers>
+            <Header name="cache-control">no-cache, no-store, must-revalidate</Header>
+        </Headers>
+    </Set>
+</AssignMessage>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="Add-Response-Headers">
+    <Basepaths>/trialdemo2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1546800930068</CreatedAt>
+    <CreatedBy>hi2karthikalagappan@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Add-Response-Headers</DisplayName>
+    <LastModifiedAt>1547564619084</LastModifiedAt>
+    <LastModifiedBy>hi2karthikalagappan@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>Add-Header-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
