@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-Set-Response-Message">
+    <Set>
+        <Payload contentType="application/json">
+           [
+              {
+                "Bucket-Lists": {
+                  "FruitBasket": [
+                    "Apple",
+                    "Banana",
+                    "Grapes",
+                    "Mango",
+                    "Orange",
+                    "Guava"
+                  ],
+                  "VegetableBasket": [
+                    "Brinjal",
+                    "Cucumber",
+                    "Drumstick",
+                    "Potato",
+                    "Tomato"
+                  ],
+                  "ShoppingBasket": [
+                    "Mobile",
+                    "Phones",
+                    "Calculator",
+                    "Pager"
+                  ],
+                  "MeatBasket": [
+                    "Chicken",
+                    "Fish",
+                    "Eggs",
+                    "Pork",
+                    "Beef",
+                    "Lamb"
+                  ],
+                  "commonBasket": [
+                  
+                  ]
+                }
+              }
+            ]
+       </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" type="response"/>
+</AssignMessage>
