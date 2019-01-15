@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="2" name="Javascript-example-1">
+<APIProxy revision="1" name="Javascript-example-1">
     <Basepaths>/trialdemo4</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedAt>1547570717674</CreatedAt>
