@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="trialdemo1">
+<APIProxy revision="1" name="simple-proxy">
     <Basepaths>/trialdemo1</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedAt>1546798135355</CreatedAt>
