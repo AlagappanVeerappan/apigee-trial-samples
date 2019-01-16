@@ -8,7 +8,12 @@
   
   4. Install Apigee tool via the command ( npm install -g apigeetool).
   
-  5. If proxy is blocking you in installing apigeetool, then set the proxy of your organization with the below command (npm config set proxy http://<<organization_proxy>>:<<organization_proxy_port>>)
+  5. If proxy is blocking you in installing apigeetool, then set the proxy of your organization with the below command (npm config set proxy http://<<organization_proxy>>:<<organization_proxy_port>>) then install apigeetool.
+  
+  6. For deploying proxy:
+  apigeetool -u <<Username>> -o <<organziation_name>> -e <<environment>> -n <<proxy_name>> -d .
+  
+  <<TBC>> <<Wait for more Updates>>
   
   
   
