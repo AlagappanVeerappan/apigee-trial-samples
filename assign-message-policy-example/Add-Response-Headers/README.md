@@ -1,1 +1,2 @@
-# apigee-trial-samples
+# Request URI Base Path
+/trialdemo2
