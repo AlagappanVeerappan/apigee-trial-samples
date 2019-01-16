@@ -1,21 +1,3 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <APIProxy revision="1" name="simple-proxy">
-    <Basepaths>/trialdemo1</Basepaths>
-    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1546798135355</CreatedAt>
-    <CreatedBy>hi2karthikalagappan@gmail.com</CreatedBy>
-    <Description></Description>
-    <DisplayName>trialdemo1</DisplayName>
-    <LastModifiedAt>1547553603856</LastModifiedAt>
-    <LastModifiedBy>hi2karthikalagappan@gmail.com</LastModifiedBy>
-    <Policies/>
-    <ProxyEndpoints>
-        <ProxyEndpoint>default</ProxyEndpoint>
-    </ProxyEndpoints>
-    <Resources/>
-    <Spec></Spec>
-    <TargetServers/>
-    <TargetEndpoints>
-        <TargetEndpoint>default</TargetEndpoint>
-    </TargetEndpoints>
 </APIProxy>
