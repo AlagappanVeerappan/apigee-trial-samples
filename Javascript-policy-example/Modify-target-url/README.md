@@ -1,1 +1,1 @@
-# apigee-trial-samples
+# Request Uri to invoke the deployed proxy: /modify-target-url
