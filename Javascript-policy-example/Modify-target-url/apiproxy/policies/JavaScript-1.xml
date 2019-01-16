@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Javascript name="JavaScript-1">
+    <ResourceURL>jsc://rewriteTargetUrl.js</ResourceURL>
+</Javascript>

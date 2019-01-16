@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="modify-target-url">
+    <Basepaths>/modify-target-url</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1546598382125</CreatedAt>
+    <CreatedBy>hi2karthikalagappan@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>modify-target-url</DisplayName>
+    <LastModifiedAt>1546601218612</LastModifiedAt>
+    <LastModifiedBy>hi2karthikalagappan@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>JavaScript-1</Policy>
+        <Policy>extractZip</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://rewriteTargetUrl.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
