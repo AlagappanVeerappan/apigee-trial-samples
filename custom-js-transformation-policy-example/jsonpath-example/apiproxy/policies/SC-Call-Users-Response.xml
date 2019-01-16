@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ServiceCallout async="false" continueOnError="false" enabled="true" name="SC-Call-Users-Response">
+    <DisplayName>SC-Call-Users-Response</DisplayName>
+    <Response>usersResponse</Response>
+    <HTTPTargetConnection>
+        <Properties/>
+        <URL>https://hi2karthikalagappan-eval-test.apigee.net/mock-users-response</URL>
+    </HTTPTargetConnection>
+</ServiceCallout>
