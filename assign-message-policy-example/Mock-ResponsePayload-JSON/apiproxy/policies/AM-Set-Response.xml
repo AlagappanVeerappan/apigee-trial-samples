@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-Set-Response">
+    <DisplayName>AM-Set-Response</DisplayName>
+    <Set>
+        <Payload contentType="application/json">
+           [
+      {
+     "userId": 11,
+     "Address": "BLR"
+ }, {
+     "userId": 44,
+     "Address": "CCU"
+ }
+  ]
+       </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" transport="http" type="response"/>
+</AssignMessage>
