@@ -6,6 +6,10 @@
   
   3. Install/extract the Node.js installer in your machine.
   
-  4. Install Apigee tool via the command ( npm install -g apigeetool)
+  4. Install Apigee tool via the command ( npm install -g apigeetool).
+  
+  5. If proxy is blocking you in installing apigeetool, then set the proxy of your organization with the below command (npm config set proxy http://<<organization_proxy>>:<<organization_proxy_port>>)
+  
+  
   
   
