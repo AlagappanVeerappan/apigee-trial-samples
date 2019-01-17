@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="conditional-flow-example-2">
+    <Basepaths>/conditional-flow-example-2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1547707168432</CreatedAt>
+    <CreatedBy>arul.ajs@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>conditional-flow-example-2</DisplayName>
+    <LastModifiedAt>1547707532442</LastModifiedAt>
+    <LastModifiedBy>arul.ajs@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:2c84e8877793e701123d8e7888ee8b0725310c558e9d9bc2d02c886f6dd2827846a838b6a9f294226714941aafbc5c252a09e8b81ed787c9e9fcafd8a723978c</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message</Policy>
+        <Policy>JSON-to-XML</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
