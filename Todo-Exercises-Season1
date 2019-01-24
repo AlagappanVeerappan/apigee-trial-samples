@@ -1,3 +1,3 @@
-Exercise 1: Create proxy for the target endpoint for https://mocktarget.apigee.net/json and restrict API Requests to only 3 per minute.
+Exercise 1: Create proxy for the target endpoint for https://mocktarget.apigee.net/json and restrict API Requests to only 3 per minute based on a input query parameter.
 Exercise 2: Create a proxy for a target endpoint and externalize the target endpoints so that it can ease code push across environments without redeployment.
 Exercise 3: 
